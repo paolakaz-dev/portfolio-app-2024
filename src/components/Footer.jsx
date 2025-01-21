@@ -1,4 +1,4 @@
-import logo from '/logo-PK.png'
+import logo from './logo-PK.png'
 import { Link, Element, scroller } from 'react-scroll';
 
 export default function Footer() {
