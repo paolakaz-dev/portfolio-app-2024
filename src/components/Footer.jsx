@@ -1,4 +1,3 @@
-import logo from './logo-PK.png'
 import { Link, Element, scroller } from 'react-scroll';
 
 export default function Footer() {
@@ -7,7 +6,7 @@ export default function Footer() {
         <Element name="contact" className="footer">
             <div className="footer-info">
                 <div className='img-wrapper'>
-                 <img src={logo} width="100" />
+                 <img src="./logo-PK.png" width="100" />
                 </div>
             <p>Based in Copenhagen, Denmark</p>
             </div>

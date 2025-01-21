@@ -27,7 +27,7 @@
 }
  
 .hero {
-  background:linear-gradient(0deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url("/pattern-3.jpg");
+  background:linear-gradient(0deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url("./pattern-3.jpg");
 
   background-size: cover;
   height: 100vh;
@@ -154,7 +154,7 @@
 }
 
 .about-img {
-  background-image: url("/img-about.jpg");
+  background-image: url("./img-about.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 80vh;

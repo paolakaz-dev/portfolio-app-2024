@@ -8,28 +8,28 @@ gsap.registerPlugin(ScrollTrigger);
 const projects = [
   {
     name: "project 1",
-    img: "/project-1.png",
+    img: "./project-1.png",
     url:"https://paolakaz-dev.github.io/movie-app-2024/",
     text: "Movie App 2024",
     stack: "React",
   }, 
   {
     name: "project 2",
-    img: "/project-1.png",
+    img: "./project-1.png",
     url:"#",
     text: "Project 2",
     stack: "React",
   }, 
   {
     name: "project 3",
-    img: "/project-1.png",
+    img: "./project-1.png",
     url:"#",
     text: "Project 3",
     stack: "React",
   },
   {
     name: "project 4",
-    img: "/project-1.png",
+    img: "./project-1.png",
     url:"#",
     text: "Project 4",
     stack: "React",
@@ -37,7 +37,7 @@ const projects = [
   },
   {
     name: "project 5",
-    img: "/project-1.png",
+    img: "./project-1.png",
     url:"#",
     text: "Project 5",
     stack: "React",
