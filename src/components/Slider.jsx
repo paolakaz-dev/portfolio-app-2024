@@ -8,7 +8,7 @@ gsap.registerPlugin(ScrollTrigger);
 const projects = [
   {
     name: "project 1",
-    img: "/project-1.png",
+    img: "./project-1.png",
     url:"https://paolakaz-dev.github.io/movie-app-2024/",
     text: "Movie App 2024",
     stack: "React",
