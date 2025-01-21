@@ -7,4 +7,6 @@ export default defineConfig({
     build: {
       outDir: "./docs"
     },
+    base: "https://paolakaz-dev.github.io/portfolio-app-2024/"
+
 })
